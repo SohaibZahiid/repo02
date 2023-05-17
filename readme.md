@@ -6,5 +6,5 @@
   2.3. Creamos fichero **readme.md**  
   ![Error al cargar la img](./img/Captura2.PNG "Creamos fichero readme.md")  
   2.4. `git push` Hacemos push a repositorio GitHub
-  
+  ![Error al cargar la img](./img/Captura4.PNG "Subimos commits a respositorio")  
 
